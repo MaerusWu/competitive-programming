@@ -25,10 +25,6 @@ class Solution:
             
             
 
-
-
-
-
 if __name__ == "__main__":
     s = Solution()
     # Test Case 1 from LeetCode description
